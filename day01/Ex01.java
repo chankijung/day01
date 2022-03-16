@@ -14,5 +14,6 @@ public class Ex01 {
 		쓰는 문단 주석
 		*/
 		System.out.println("집에서 추가");
+		System.out.println("집에서 한번 더 해봄");
 	}
 }
