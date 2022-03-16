@@ -13,5 +13,6 @@ public class Ex01 {
 		으로 묶을 때
 		쓰는 문단 주석
 		*/
+		System.out.println("학원에서 추가");
 	}
 }
