@@ -5,7 +5,7 @@ public class Ex01 {
 		System.out.println("안녕하세요~!");
 		System.out.println("안녕하세요~!");
 		System.out.print("추우");
-		System.out.print("울력");
+		System.out.println("울력");
 		//출력하는 기능
 		
 		/*
@@ -13,6 +13,9 @@ public class Ex01 {
 		으로 묶을 때
 		쓰는 문단 주석
 		*/
+
 		System.out.println("학원에서 추가");
+		System.out.println("집에서 추가");
+
 	}
 }
